@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .main{
+    display: flex;
+    justify-content: space-between;
+    margin: 12px;
+    border-bottom: 2px solid rgb(85, 82, 82);
+}
+.logImage{
+    height: 4rem;
+}
+.listItems{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    font-size: large;
+} */
+/* .bodyImg{
+    width: 12rem;
+    border-radius: 10px;
+    height: 12rem;
+} */
+/* .mainBodyCards{
+    width: 12rem;
+    padding: 2px;
+    height: 15rem; */
+    /* border: 1px solid black;
+    box-shadow: 0px 2px 5px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 3rem;
+    background-color: rgb(246, 244, 244);
+    cursor: pointer;
+    transition: 2s ease-in-out;
+}
+.mainBodyCards:hover{
+    background-color: rgb(162, 160, 162);
+}
+.CardWraping{
+    display: flex;
+    flex-wrap: wrap;
+} */
+/* .TopRatedRes{
+    background-color: #ffffff;
+    color: #000;
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+} */
+/* .TopRatedRes:hover{
+    background-color: #000;
+    color: #ffffff;
+    cursor: pointer;
+    margin-right: 19rem;
+
+} */
+
+/* 
+.ShimmerMainContainer{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+ */
+
+/* .ShimmerBox{
+    width: 12rem;
+    height: 25rem;
+    padding: 2px;
+    box-shadow: 0px 2px 5px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 3rem;
+    background-color: rgb(246, 244, 244);
+    cursor: pointer;
+    transition: 2s ease-in-out;
+} */
+
+/* .Button{
+    background-color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+.SearchDiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.InputText{
+    margin-left: 3rem;
+    border: 1px solid black;
+    border-radius:5px ;
+    height: 2rem;
+    width: 15rem;
+}
+
+.searchBtn{
+    border-radius: 5px;
+    margin-left:2px ;
+    height: 2.1rem;
+    border: 1px solid black;
+
+} */
